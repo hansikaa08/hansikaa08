@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/hansikaa_08?theme=dark&font=Poppins&ext=heatmap)
 <!--
 **hansikaa08/hansikaa08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
